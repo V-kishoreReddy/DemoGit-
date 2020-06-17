@@ -14,6 +14,7 @@
 		E39A7EBD249A0CFE00F0AB09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E39A7EBB249A0CFE00F0AB09 /* LaunchScreen.storyboard */; };
 		E39A7EC8249A0CFE00F0AB09 /* DemoGitAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E39A7EC7249A0CFE00F0AB09 /* DemoGitAppTests.swift */; };
 		E39A7ED3249A0CFE00F0AB09 /* DemoGitAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E39A7ED2249A0CFE00F0AB09 /* DemoGitAppUITests.swift */; };
+		E39A7F1B249A153000F0AB09 /* singleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E39A7F1A249A153000F0AB09 /* singleViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E39A7ECE249A0CFE00F0AB09 /* DemoGitAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoGitAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E39A7ED2249A0CFE00F0AB09 /* DemoGitAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoGitAppUITests.swift; sourceTree = "<group>"; };
 		E39A7ED4249A0CFE00F0AB09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E39A7F1A249A153000F0AB09 /* singleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = singleViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				E39A7EB9249A0CFE00F0AB09 /* Assets.xcassets */,
 				E39A7EBB249A0CFE00F0AB09 /* LaunchScreen.storyboard */,
 				E39A7EBE249A0CFE00F0AB09 /* Info.plist */,
+				E39A7F1A249A153000F0AB09 /* singleViewController.swift */,
 			);
 			path = DemoGitApp;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				E39A7EB5249A0CE100F0AB09 /* ViewController.swift in Sources */,
 				E39A7EB3249A0CE100F0AB09 /* AppDelegate.swift in Sources */,
+				E39A7F1B249A153000F0AB09 /* singleViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
